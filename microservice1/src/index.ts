@@ -1,4 +1,4 @@
-import App from "./servers/express";
+import { App } from "./servers";
 
 const newApp = new App();
 
